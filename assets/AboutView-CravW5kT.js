@@ -1,0 +1,1 @@
+import{_ as t,c as o,a as n,o as s}from"./index-By8RDGPn.js";const a={};function r(c,e){return s(),o("div",null,e[0]||(e[0]=[n("h1",{class:"text-2xl font-bold underline"},"This is an about page",-1)]))}const i=t(a,[["render",r]]);export{i as default};
